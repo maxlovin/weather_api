@@ -1,4 +1,3 @@
-```markdown
 # 🌧️ Rain Alert SMS Notification
 
 Automated Python script that checks the weather forecast for the next 12 hours using the OpenWeatherMap API and sends an SMS notification via Twilio if rain or snow is expected.
